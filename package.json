@@ -14,5 +14,12 @@
     "@babel/node": "^7.16.8",
     "@babel/preset-env": "^7.16.8",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.3.1",
+    "pub": "^0.2.0",
+    "pug": "^3.0.2",
+    "ws": "^8.4.2"
   }
 }
